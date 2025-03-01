@@ -21,8 +21,3 @@ Este es el portafolio personal de Carlos Eduardo Pinzón González, un desarroll
 - Framer Motion
 - Lucide React
 - shadcn/ui
-
-## Configuración del proyecto
-
-1. Clona el repositorio:
-
